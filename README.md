@@ -1,2 +1,2 @@
-# my_python_tutorial
-入门
+# book resources
+- Developing Apps with GPT-4 and ChatGPT 
